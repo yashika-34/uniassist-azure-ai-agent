@@ -1,4 +1,14 @@
-# UniAssist AI — University Student Support Agent
+# 🎓 UniAssist AI — University Student Support Agent
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-20+-green?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-18-blue?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure%20AI-Foundry-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-Atlas-green?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stack-MERN-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Production%20Ready-success?style=for-the-badge" />
+</p>
+
 ### Enterprise MERN Stack & Azure AI Foundry Solution
 
 UniAssist AI is a modern 24/7 student support system designed for universities. It combines the MERN stack with Azure AI Foundry (Azure OpenAI & Azure AI Search) to answer student queries, track attendance, forecast class requirements, manage assignment deadlines, and automate administrative workflows.
